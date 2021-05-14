@@ -7,3 +7,4 @@
 ###### Detection
 - Contains files for detecting presence of resizing in an image
 - `detection.hdf5 :` Saved weights for bayar's method employed for resizing detection
+- `bayar(2016)_detection.ipynb :` Bayar's method for detection of resizing
